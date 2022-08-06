@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho com Infraestrutura, solucionando problemas tecnológicos.
 - 🌱 Estudando C#
-- 📫 How to reach me: rafa_hig@live.com
-- 😄 Pronouns: Ele/Dele
+- 📫 Como me contatar: rafa_hig@live.com
+- 😄 Pronomes: Ele/Dele
 <div>
  <a href="https://www.linkedin.com/in/rafael-higino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/rafa_higino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
